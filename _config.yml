@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: killingbest@gmail.com
 description: "这里是 killingbest 的个人博客，我们在努力扩大自己，以靠近，以触及我们自身以外的世界。"
 keyword: "待补充"
-url: "https://huangxuan.me" # your host, for absolute URL
+url: "https://killingbest.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -70,7 +70,7 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_domain: killingbest.github.io
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
