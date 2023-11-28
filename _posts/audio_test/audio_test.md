@@ -2,8 +2,9 @@
 title: "音频测试"
 subtitle: "audio test"
 layout: post
-author: "test"
+author: "killingbest"
 header-style: text
+hidden: true
 tags:
   - audio
 ---
