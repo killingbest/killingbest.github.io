@@ -1,4 +1,4 @@
-[Hux Blog](https://killingbest.github.io)
+[killingbest Blog](https://killingbest.github.io)
 ================================
 
 > I never expect this becomes popular.
@@ -43,10 +43,10 @@ Other Resources
 ---------------
 
 Ports
-- [**Hexo**](https://github.com/Kaijun/hexo-theme-huxblog) by @kaijun
+- [**Hexo**](https://github.com/Kaijun/hexo-theme-killingbestblog) by @kaijun
 - [**React-SSR**](https://github.com/LucasIcarus/killingbest.github.io/tree/ssr) by @LucasIcarus
 
-[Starter/Boilerplate](https://github.com/killingbest/huxblog-boilerplate)
+[Starter/Boilerplate](https://github.com/killingbest/killingbestblog-boilerplate)
 - Out of date. Helps wanted for updating it on par with the main repo
 
 Translation
@@ -59,5 +59,5 @@ License
 Apache License 2.0.
 Copyright (c) 2015-present killingbest
 
-Hux Blog is derived from [Clean Blog Jekyll Theme (MIT License)](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll/)
+killingbest Blog is derived from [Clean Blog Jekyll Theme (MIT License)](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll/)
 Copyright (c) 2013-2016 Blackrock Digital LLC.
