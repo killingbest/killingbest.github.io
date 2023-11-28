@@ -5,6 +5,7 @@ layout: post
 author: "Hux"
 header-style: text
 hidden: true
+published: false
 tags:
   - 笔记
   - 基础
@@ -22,7 +23,7 @@ There are mainly two properties to make a integer representation different:
 1. **Size, of the number of bits used**.
 usually the power of 2. e.g. 8-bit, 16-bit, 32-bit, 64-bit.
 
-2. **Signed or unsigned**.
+1. **Signed or unsigned**.
 there are also multiple schemas to encode a signed integers.
 
 We are also gonna use the below terminologies throughout the post:

@@ -1,12 +1,11 @@
 ---
-title: "Peter John Landin"
-subtitle: "「计算机科学偶像」- 彼得·约翰·兰丁"
+title: "音频测试"
+subtitle: "audio test"
 layout: post
-author: "Hux"
+author: "test"
 header-style: text
-published: false
 tags:
-  - CS Idols
+  - audio
 ---
 
 > - [wiki](https://en.wikipedia.org/wiki/Peter_Landin)
