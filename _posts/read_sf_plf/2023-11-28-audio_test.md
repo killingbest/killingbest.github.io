@@ -17,7 +17,7 @@ tags:
 
 <audio src="audio/dasima_clip.wav" controls="controls" autoplay="autoplay" loop="loop" preload="auto"></audio>
 
-<audio src="../../audio/dasima_clip.wav" controls="controls" autoplay="autoplay" loop="loop" preload="auto"></audio>
+<audio src="https://github.com/killingbest/killingbest.github.io/blob/master/audio/dasima_clip.wav" controls="controls" autoplay="autoplay" loop="loop" preload="auto"></audio>
 
 
 <audio src="../audio/dasima_clip.wav" controls="controls" autoplay="autoplay" loop="loop" preload="auto"></audio>
