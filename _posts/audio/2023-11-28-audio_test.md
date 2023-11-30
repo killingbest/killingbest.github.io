@@ -34,6 +34,15 @@ tags:
 
 
 ## knn-VC结果
+- 参考音频
+  
+|  |  | 
+| :------------: | :------------: | 
+|<audio name="2300" controls="" preload="" src="https://drive.google.com/uc?export=preview&amp;id=163JsX3e3A599NC9YEaWv92K7rVv0uCMf"></audio>  | <audio name="2300" controls="" preload="" src="https://drive.google.com/uc?export=preview&amp;id=16DDc-fABBmZ_GlOFuagfoEAqTckw30Wn"></audio>   |
+| <audio name="2300" controls="" preload="" src="https://drive.google.com/uc?export=preview&amp;id=16LVBKkHEuRF8pPYJ0phRo45oAf1z6n1q"></audio>   | <audio name="2300" controls="" preload="" src="https://drive.google.com/uc?export=preview&amp;id=16Nzn75CrO5pHPqr29r6ROdEtxSznjaXG"></audio>   | 
+| <audio name="2300" controls="" preload="" src="https://drive.google.com/uc?export=preview&amp;id=16QUEszbMp0acd395iCVEI6WHgTdCWQvl"></audio>   | <audio name="2300" controls="" preload="" src="https://drive.google.com/uc?export=preview&amp;id=16Scu5s0uomfy02gIYJT4rp6qBV88aF8_"></audio>   | 
+| <audio name="2300" controls="" preload="" src="https://drive.google.com/uc?export=preview&amp;id=16UIKc2521ihmCF-RLAIahFAOFytLkRcO"></audio>  | 
+
 
 
 | 大司马原始音频 | 小团团目标音频 | 结果 |
